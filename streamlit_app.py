@@ -1,5 +1,4 @@
-print= "fdgfd";
-
+print= "fdgfd"
 with open (file, "a+") as f:
   f.write("Hello")
 
