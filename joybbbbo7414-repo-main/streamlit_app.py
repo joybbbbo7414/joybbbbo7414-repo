@@ -1,4 +1,4 @@
-file = "export_24-04-2022-14_52.txt"
+print ="dsfgds"
 
 with open (file, "a+") as f:
   f.write("Hello")
